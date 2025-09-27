@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "username": "Lisa",
+      "firstName": "Liza",
+      "lastName": "Petrova",
+      "email": "string",
+      "password": "string",
+      "phone": "string",
+      "userStatus": 0
+    }
+    {
+      "id": 2,
+      "username": "Lisa",
+      "firstName": "Liza",
+      "lastName": "Petrova",
+      "email": "string",
+      "password": "string",
+      "phone": "string",
+      "userStatus": 0
+    }
+  ]
+  
